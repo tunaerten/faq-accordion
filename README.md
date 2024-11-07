@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/tunaerten/card-component]
-- Live Site URL: [https://card-component-erten.netlify.app]
+- Solution URL: [https://github.com/tunaerten/faq-accordion]
+- Live Site URL: [https://faq-accordion-erten.netlify.app/]
 
 ## My process
 
